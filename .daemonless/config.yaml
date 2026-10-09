@@ -1,0 +1,16 @@
+# dbuild configuration file
+# Full reference: https://github.com/daemonless/dbuild
+
+icon: ':material-vector-curve:'
+build:
+  # Static site on nginx: nothing arch-specific is fetched
+  architectures:
+    - amd64
+    - aarch64
+  variants:
+    - tag: latest
+      containerfile: Containerfile
+
+cit:
+  mode: screenshot
+  port: 80
