@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-10T13:30:00Z",
+  "generated": "2026-10-11T09:57:45Z",
   "image": "vectorcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.8.0",
+      "app_version": "0.9.0",
       "arch": "aarch64",
-      "generated": "2026-10-10T13:29:29Z",
+      "generated": "2026-10-11T09:57:16Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
