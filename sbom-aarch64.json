@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-11T09:57:45Z",
+  "generated": "2026-10-12T21:31:01Z",
   "image": "vectorcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.9.0",
+      "app_version": "0.10.0",
       "arch": "aarch64",
-      "generated": "2026-10-11T09:57:16Z",
+      "generated": "2026-10-12T21:30:25Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -280,7 +280,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.4,3"
+            "version": "1.30.5_1,3"
           },
           {
             "licenses": [
@@ -294,7 +294,7 @@
               "BSD3CLAUSE"
             ],
             "name": "pcre2",
-            "version": "10.47_1"
+            "version": "10.49"
           },
           {
             "licenses": [
