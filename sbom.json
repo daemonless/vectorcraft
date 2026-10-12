@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-11T09:32:39Z",
+  "generated": "2026-10-12T21:25:14Z",
   "image": "vectorcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.9.0",
+      "app_version": "0.10.0",
       "arch": "amd64",
-      "generated": "2026-10-11T09:32:03Z",
+      "generated": "2026-10-12T21:24:27Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -259,7 +259,7 @@
               "MPL20"
             ],
             "name": "ca_root_nss",
-            "version": "3.130"
+            "version": "3.131"
           },
           {
             "licenses": [
@@ -280,7 +280,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.4,3"
+            "version": "1.30.5_2,3"
           },
           {
             "licenses": [
@@ -294,7 +294,7 @@
               "BSD3CLAUSE"
             ],
             "name": "pcre2",
-            "version": "10.47_1"
+            "version": "10.49"
           },
           {
             "licenses": [
