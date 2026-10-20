@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-18T08:28:30Z",
+  "generated": "2026-10-20T22:51:29Z",
   "image": "vectorcraft",
   "tags": {
     "latest-aarch64": {
       "app_version": "0.13.1",
       "arch": "aarch64",
-      "generated": "2026-10-18T08:27:59Z",
+      "generated": "2026-10-20T22:51:02Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -196,7 +196,7 @@
               "BSD2CLAUSE"
             ],
             "name": "FreeBSD-runtime",
-            "version": "15.1p4"
+            "version": "15.1p5"
           },
           {
             "licenses": [
@@ -245,7 +245,7 @@
               "PD"
             ],
             "name": "FreeBSD-zoneinfo",
-            "version": "15.1p4"
+            "version": "15.1p5"
           },
           {
             "licenses": [
@@ -280,7 +280,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.5_1,3"
+            "version": "1.30.5_2,3"
           },
           {
             "licenses": [
