@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-02T00:30:35Z",
+  "generated": "2026-11-03T10:32:40Z",
   "image": "vectorcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.20.0",
+      "app_version": "0.21.0",
       "arch": "aarch64",
-      "generated": "2026-11-02T00:30:03Z",
+      "generated": "2026-11-03T10:31:55Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -252,7 +252,7 @@
               "MPL20"
             ],
             "name": "ca_root_nss",
-            "version": "3.131"
+            "version": "3.132"
           },
           {
             "licenses": [
