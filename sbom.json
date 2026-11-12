@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-11T23:08:28Z",
+  "generated": "2026-11-12T08:57:27Z",
   "image": "vectorcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.24.0",
+      "app_version": "0.24.1",
       "arch": "amd64",
-      "generated": "2026-11-11T23:07:56Z",
+      "generated": "2026-11-12T08:56:47Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
